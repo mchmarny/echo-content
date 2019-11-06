@@ -5,4 +5,4 @@ gcloud beta run deploy echo-content \
 	--image gcr.io/cloudylabs-public/echo-content:0.0.2 \
 	--platform managed \
 	--region us-central1 \
-	--set-env-vars "MSG=loaderio-ec26b302af9826543756cd66fa6a7cc1"
+	--set-env-vars "MSG=hi"
